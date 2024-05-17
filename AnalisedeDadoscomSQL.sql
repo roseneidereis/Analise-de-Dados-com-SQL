@@ -28,7 +28,7 @@ SELECT
 FROM FactInternetSales AS F
 
 
----Total de Vendas de 2013 (tabelas FactInternetSales e DimDate)
+---Total de Vendas de 2013 
 
 SELECT 
 	D.CalendarYear,
@@ -39,7 +39,7 @@ GROUP BY D.CalendarYear
 HAVING D.CalendarYear = 2013
 
 
----País que mais vendeu em 2013 (tabelas FactInternetSales, DimDAte, SalesTerritoryCountry)
+---País que mais vendeu em 2013 
 
 SELECT 
 	T.SalesTerritoryCountry,
