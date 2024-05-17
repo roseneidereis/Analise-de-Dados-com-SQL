@@ -1,6 +1,6 @@
 # Análise de Dados com SQL
 
-Utilizado o banco de dados AdventureWorksDW2022 para responder as seguintes perguntas?
+Utilizado o banco de dados AdventureWorksDW2022 para responder as seguintes perguntas:
 
 1.	Quantos clientes distintos existem?
 2.	Qual é o valor total de vendas?
